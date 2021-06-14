@@ -8,6 +8,8 @@ python3 application.py
 ###### UI snapshots
 | ![image](https://user-images.githubusercontent.com/42184594/121865582-c18d3500-cd1b-11eb-80d5-b353119dc583.png) |
 |:--:| 
-| *Space* |
+| main layout |
 
-![image](https://user-images.githubusercontent.com/42184594/121865530-b0dcbf00-cd1b-11eb-8d2d-6d66eae0901a.png)
+| ![image](https://user-images.githubusercontent.com/42184594/121865530-b0dcbf00-cd1b-11eb-8d2d-6d66eae0901a.png) |
+|:--:| 
+| downloader layout |
