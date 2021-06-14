@@ -1,5 +1,5 @@
 #### A pyqt5 - UI application to download media (audio/video) from youtube
-<p>A simple UI application to download video and audo from youtube directly to the local system</p>
+A simple UI application to download video and audo from youtube directly to the local system
 ##### To run the application
 >create a virtual environment
 <pre><code>  
